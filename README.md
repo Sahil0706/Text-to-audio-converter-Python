@@ -6,9 +6,9 @@ gTTS -> (Google Text-to-Speech) is a Python library and CLI tool to interface wi
 
 Steps To USE:-
 
-pip install gtts      
+1. pip install gtts      
 
 (pip install -U gtts)-> for upgrading
 
-then just run the code.
+2. then just run the code.
 It works like magic!
